@@ -1,0 +1,11 @@
+E:\Projects\Interview\SpellNumber\SpellNumber\bin\Debug\netcoreapp2.2\SpellNumber.deps.json
+E:\Projects\Interview\SpellNumber\SpellNumber\bin\Debug\netcoreapp2.2\SpellNumber.runtimeconfig.json
+E:\Projects\Interview\SpellNumber\SpellNumber\bin\Debug\netcoreapp2.2\SpellNumber.runtimeconfig.dev.json
+E:\Projects\Interview\SpellNumber\SpellNumber\bin\Debug\netcoreapp2.2\SpellNumber.dll
+E:\Projects\Interview\SpellNumber\SpellNumber\bin\Debug\netcoreapp2.2\SpellNumber.pdb
+E:\Projects\Interview\SpellNumber\SpellNumber\obj\Debug\netcoreapp2.2\SpellNumber.csprojAssemblyReference.cache
+E:\Projects\Interview\SpellNumber\SpellNumber\obj\Debug\netcoreapp2.2\SpellNumber.csproj.CoreCompileInputs.cache
+E:\Projects\Interview\SpellNumber\SpellNumber\obj\Debug\netcoreapp2.2\SpellNumber.AssemblyInfoInputs.cache
+E:\Projects\Interview\SpellNumber\SpellNumber\obj\Debug\netcoreapp2.2\SpellNumber.AssemblyInfo.cs
+E:\Projects\Interview\SpellNumber\SpellNumber\obj\Debug\netcoreapp2.2\SpellNumber.dll
+E:\Projects\Interview\SpellNumber\SpellNumber\obj\Debug\netcoreapp2.2\SpellNumber.pdb
